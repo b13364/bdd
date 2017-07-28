@@ -52,4 +52,3 @@ Feature: [SMARTF-X] Application Skeleton
 
 
   #do we have to add a test to check the ability to open all sections if needed? TEST
-test
